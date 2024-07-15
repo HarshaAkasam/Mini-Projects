@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Hafsa{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+.cherry{
+    display: flex;
+    gap: 100px;
+}
+.bhumika{
+    display: flex;
+    gap: 100px;
+}
+.Hasini{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    color: white;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Madhu{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    color: white;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Sandhya{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 24px;
+    color: white;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Meera{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 24px;
+    color: white;
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Sumitha{
+    height: 180px;
+    width: 180px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Preethi{
+    height: 180px;
+    width: 180px;
+    border: 1px solid white;
+    color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+
+    border-radius: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Saranya{
+    height: 180px;
+    width: 180px;
+    border: 1px solid white;
+    color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    align-items: center;
+    border-radius: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Sumitha:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+    color:black;
+    border: 3px solid black;
+    transform: scale(1.2);
+    transition: all 0.8s;
+    box-shadow: 0px 0px 50px 5px greenyellow;
+}
+.Preethi:hover{
+    cursor: pointer;
+    background-color: red;
+    color:white;
+    border: 3px solid white;
+    transform: scale(1.2);
+    transition: all 0.8s;
+    box-shadow: 0px 0px 50px 5px red;
+}
+.Saranya:hover{
+    cursor: pointer;
+    background-color: yellow;
+    color:black;
+    border: 3px solid black;
+    transform: scale(1.2);
+    transition: all 0.8s;
+    box-shadow: 0px 0px 50px 5px yellow;
+}
